@@ -1,2 +1,2 @@
 # Selfhosted_templates
-Custom templates for Portainer and yacht
+Custom template for Portainer and yacht
